@@ -32,4 +32,4 @@ A fully functional chess game built using **HTML, CSS, and JavaScript**, featuri
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/chess-game-js.git
+   git clone https://github.com/SAKINA-KHAN3821/chess-game-js.git
